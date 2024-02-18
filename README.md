@@ -24,9 +24,14 @@ Press the "Use this template" button above to create a new repository to store y
 You can also just clone this repository directly if you do not want to track your user configuration in GitHub.
 
 #### Clone the repository
-
+##### HTTP
 ```shell
 git clone https://github.com/Zamesov26/astronvim_config ~/.config/nvim/lua/user
+```
+
+##### SSH
+```shell
+git clone git@github.com:Zamesov26/astronvim_config.git ~/.config/nvim/lua/user
 ```
 
 #### Start Neovim
