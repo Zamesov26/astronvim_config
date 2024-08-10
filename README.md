@@ -31,7 +31,7 @@ git clone https://github.com/Zamesov26/astronvim_config ~/.config/nvim/lua/user
 
 ##### SSH
 ```shell
-git clone git@github.com:Zamesov26/astronvim_config.git ~/.config/nvim/lua/user
+git clone git@github.com:Zamesov26/astronvim_config.git ~/.config/nvim/
 ```
 
 #### Start Neovim
